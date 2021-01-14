@@ -1,14 +1,16 @@
 body{
     font-family: 'Open Sans Condensed', sans-serif;
     padding: 20px 60px;
+    background-image: url(./assets/pic.jpg);
 }
 
 a{
    text-decoration: none;
-   color: brown; 
-   font-weight: bold;
+   color: rgb(64, 51, 136); 
+   font-weight:bolder;
 }
 
 *{
     box-sizing: border-box;
+    
 }
